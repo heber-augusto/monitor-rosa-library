@@ -1,5 +1,5 @@
 {
-	"name": "{{cookiecutter.underscored}}",
+	"name": "monitor_rosa_library",
 	"build": {
 		"dockerfile": "../Dockerfile"
 	},

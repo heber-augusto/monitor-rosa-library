@@ -3,7 +3,7 @@ Run meta tests on package (apply to muliple packages)
 
 """
 from pathlib import Path
-import {{cookiecutter.underscored}} as package
+import monitor_rosa_library as package
 import toml
 
 
